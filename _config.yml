@@ -1,0 +1,28 @@
+name: Design Future
+favicon: null
+layout_spectrum: 0.8641780326142907
+typography_spectrum: 0.06319615407846868
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4929779642261565
+  lightness: 0.1889248990919441
+  saturation: 0.34641297277994454
+  rhythmicContrast: 0.7346601779572666
+purpose: []
