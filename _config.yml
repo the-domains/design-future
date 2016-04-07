@@ -1,6 +1,6 @@
 name: Design Future
 favicon: null
-layout_spectrum: 0.8641780326142907
+layout_spectrum: 0.85985
 typography_spectrum: 0.06319615407846868
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4929779642261565
+  brandStrength: 0
   lightness: 0.1889248990919441
   saturation: 0.34641297277994454
   rhythmicContrast: 0.7346601779572666
