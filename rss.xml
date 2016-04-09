@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Design Futures]]></title>
         <description><![CDATA[Design Futures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/design-future/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 08:36:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 08:38:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/design-future/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b29aaea2-64a1-4d77-b895-d1d9db17f354.jpg">]]></description>
+            <link>https://thegrid.ai/design-future/8f8a0f43-7e3c-4b7e-a341-15299c19f4e9/index.html</link>
+            <guid isPermaLink="false">8f8a0f43-7e3c-4b7e-a341-15299c19f4e9</guid>
+            <pubDate>Sat, 09 Apr 2016 08:38:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf5bc3c9-b3b1-42f2-8391-b1e9c3103999.jpg">]]></description>
-            <link>undefined8d4721a6-6f78-442a-b20b-5a6c43a41563/index.html</link>
+            <link>https://thegrid.ai/design-future/8d4721a6-6f78-442a-b20b-5a6c43a41563/index.html</link>
             <guid isPermaLink="false">8d4721a6-6f78-442a-b20b-5a6c43a41563</guid>
             <pubDate>Sat, 09 Apr 2016 08:36:00 GMT</pubDate>
         </item>
